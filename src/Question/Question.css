@@ -1,0 +1,68 @@
+#form{
+    font-size: 20px;
+}
+
+#question{
+    font-weight: bold;
+    height: 70px;
+    text-align: center;
+}
+
+.answers{
+    margin-left: 20px;
+    height: 200px;
+}
+
+#input{
+    /* background-color:rebeccapurple; */
+    margin:20px;
+    /* padding-left: 10px; */
+}
+
+button{
+    cursor: pointer;
+    height: 60px;
+    width: 130px;
+    border-radius: 5px;
+    padding: 15px 25px;
+    font-size: 22px;
+    text-decoration: none;
+    margin: 20px;
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    background-color: #247BA0;
+    border-image: 0;
+    box-shadow: 5px 10px #4f95b3;
+    border: 0px;
+    -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    -ms-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    -o-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 500;
+}
+
+
+  
+  button:hover {
+    background-color: #4f95b3;
+  }
+
+  button:disabled{
+    background-color: #a7cad9;
+    /* #bdd7e2; */
+    background-color: #a7cad9;
+    cursor: auto;
+  }
+
+  .buttons{
+    margin-top: 30px;
+  }
+
+  .rightBtn{
+    position: relative;
+    right: 0px;
+    left:130px;
+  }

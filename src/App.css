@@ -1,0 +1,40 @@
+.App{
+  background-color: aqua;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 12fr;
+  background-color:#D4DBCD;
+   font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.header{
+  background-color: #247BA0;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+}
+.quiz-box{
+  height: 600px;
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#end-game-screen{
+  text-align: center;
+}
+#game-over{
+  font-size: 70px;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: 600;
+}
+
+#score{
+  margin: 30px;
+  font-size: 40px;
+}
+

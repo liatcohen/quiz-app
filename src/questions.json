@@ -1,0 +1,97 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year did the television company BBC officially launch the channel BBC One?",
+            "correct_answer": "1936",
+            "answers": [
+                "1948",
+                "1955",
+                "1936",
+                "1932"
+            ]
+        },
+        {
+            "category": "Politics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+            "correct_answer": "Neville Chamberlain",
+            "answers": [
+                "Clement Attlee",
+                "Winston Churchill",
+                "Stanley Baldwin",
+                "Neville Chamberlain"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+            "correct_answer": "Motherboard",
+            "answers": [
+                "Central Processing Unit",
+                "Random Access Memory",
+                "Motherboard",
+                "Hard Disk Drive"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the first 'Star Wars' film by release order?",
+            "correct_answer": "A New Hope",
+            "answers": [
+                "A New Hope",
+                "The Phantom Menace",
+                "The Force Awakens",
+                "Revenge of the Sith"
+            ]
+        },
+        {
+            "category": "Animals",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many known living species of hyenas are there?",
+            "correct_answer": "4",
+            "answers": [
+                "8",
+                "2",
+                "6",
+                "4",
+                "10"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the true moon princess in Sailor Moon?",
+            "correct_answer": "Sailor Moon",
+            "answers": [
+                "Sailor Venus",
+                "Sailor Moon",
+                "Sailor Mars",
+                "Sailor Jupiter"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these colours is NOT featured in the logo for Google?",
+            "correct_answer": "Pink",
+            "answers": [
+                "Yellow",
+                "Blue",
+                "Green",
+                "Pink"
+            ]
+        }
+    ]
+}
