@@ -10,13 +10,10 @@
 
 .answers{
     margin-left: 20px;
-    height: 200px;
 }
 
 #input{
-    /* background-color:rebeccapurple; */
     margin:20px;
-    /* padding-left: 10px; */
 }
 
 button{
@@ -52,13 +49,11 @@ button{
 
   button:disabled{
     background-color: #a7cad9;
-    /* #bdd7e2; */
-    background-color: #a7cad9;
     cursor: auto;
   }
 
   .buttons{
-    margin-top: 30px;
+    margin-top: 50px;
   }
 
   .rightBtn{
